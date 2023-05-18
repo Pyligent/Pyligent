@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pyligent
-- 👀 I’m interested in LLM, Document NLP,CV,DocVQA and Algo Trading
+- 👀 I’m interested in LLM, Document AI,CV,DocVQA and Algo Trading
 - 🌱 Model Zoo : https://huggingface.co/jinhybr
 - 🌱 I’m currently learning Robotics and Mission Planner for Drones and AV
 - 💞️ I’m looking to collaborate on FinTech/InsureTech Projects
