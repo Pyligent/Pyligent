@@ -23,7 +23,7 @@ I build at the intersection of **LLMs, document intelligence, quantitative finan
 - **Key Speech in Industry** – talks and decks on GenAI + finance + governance  
   → https://github.com/Pyligent/Key-Speech-in-industry
 
----
+- **Agent Design Blogs** https://www.pyligentai.com/#blogs
 
 ### 👀 Interests
 
