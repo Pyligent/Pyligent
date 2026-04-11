@@ -8,6 +8,7 @@ I build at the intersection of **LLMs, document intelligence, quantitative finan
 
 - **Pyligent AI** – evidence-gated LLM + optimization for **ISDA CSA, collateral, and RegTech**  
   → Enterprise AI platform: https://pyligentai.com
+  
   → Pyligent Collatoral Management: https://pyligent.com
 - **AI + Quantum Optimization** for rugged finance-native problems (collateral, xVA, treasury)  
   → Product & demo site: https://pyligent.com
