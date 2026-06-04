@@ -24,6 +24,8 @@ I build at the intersection of **LLMs, document intelligence, quantitative finan
   → https://github.com/Pyligent/Key-Speech-in-industry
 
 - **Agent Design Blogs** https://www.pyligentai.com/#blogs
+- **White Paper** [Governed Agentic Harnesses: A Control Architecture
+for Agentic AI in Regulated Finance](https://github.com/Pyligent/Key-Speech-in-industry/blob/main/Governed_Agentic_Harnesse.pdf)
 
 ### 👀 Interests
 
