@@ -27,6 +27,11 @@ I build at the intersection of **LLMs, document intelligence, quantitative finan
 - **White Paper** [Governed Agentic Harnesses: A Control Architecture
 for Agentic AI in Regulated Finance](https://github.com/Pyligent/Key-Speech-in-industry/blob/main/Governed_Agentic_Harnesse.pdf)
 
+### ⭐ Financial Collateral Optimization Workflow Research
+- **A Certified Higher-Order Quantum Framework for CSA and Margin-Aware Collateral Optimization** : [arXiv:2606.04235](https://arxiv.org/abs/2606.04235)
+- **Hybrid LLM and Higher-Order Quantum Approximate Optimization for CSA Collateral Management**:  [arXiv:2510.26217](https://arxiv.org/abs/2510.26217)
+
+
 ### 👀 Interests
 
 - LLMs, Document AI / DocVQA, CV  
